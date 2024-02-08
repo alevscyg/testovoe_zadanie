@@ -1,4 +1,3 @@
-
 //import { IsNumber, IsString, Length } from "class-validator";
 export class UKDto{
     //@IsString({message: 'Must be a string'})
